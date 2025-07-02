@@ -142,7 +142,6 @@ Untuk mereproduksi hasil analisis ini, ikuti langkah-langkah berikut:
 1.  **Clone Repositori:**
     ```bash
     git clone https://github.com/tndry/hacktiv8-X-IBM
-    cd [NAMA FOLDER REPOSITORI ANDA]
     ```
 2.  **Install Dependensi:**
     ```bash
